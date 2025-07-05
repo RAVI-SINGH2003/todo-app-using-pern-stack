@@ -1,0 +1,8 @@
+.todo-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.todo-title-input, .todo-description, .todo-add-button{
+    padding: 10px;
+}
